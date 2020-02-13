@@ -1,5 +1,5 @@
 # Policy-Distillation :Create Student Agent playing Atari Breakout
-<img src="https://github.com/hamidahmadian/Policy-Distillation/tree/master/videos/teacher.gif" width="329" height="478">
+<img src="https://github.com/hamidahmadian/Policy-Distillation/blob/master/videos/teacher.gif" width="329" height="478">
 
 ## Environment
 * **< Python 3.7 >**
